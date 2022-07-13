@@ -1,0 +1,40 @@
+{
+    "project_info": {
+        "project_number": "955976354718",
+        "project_id": "graphing-f827a",
+        "storage_bucket": "graphing-f827a.appspot.com"
+    },
+    "client": [{
+        "client_info": {
+            "mobilesdk_app_id": "1:955976354718:android:ca93823b19c90dd909248f",
+            "android_client_info": {
+                "package_name": "com.graphing"
+            }
+        },
+        "oauth_client": [{
+                "client_id": "955976354718-2jcp8ttvn1dufqm2l8rm5ejeqqpr73q3.apps.googleusercontent.com",
+                "client_type": 1,
+                "android_info": {
+                    "package_name": "com.graphing",
+                    "certificate_hash": "5c85d1d402da7ee8b7d68d2d799874c60199903c"
+                }
+            },
+            {
+                "client_id": "955976354718-r0k839aitds81pglu5qs7cifin8vfggj.apps.googleusercontent.com",
+                "client_type": 3
+            }
+        ],
+        "api_key": [{
+            "current_key": "AIzaSyD7zIGmZbh9W8nQfhjKj8N_JSd29puFydg"
+        }],
+        "services": {
+            "appinvite_service": {
+                "other_platform_oauth_client": [{
+                    "client_id": "955976354718-r0k839aitds81pglu5qs7cifin8vfggj.apps.googleusercontent.com",
+                    "client_type": 3
+                }]
+            }
+        }
+    }],
+    "configuration_version": "1"
+}
