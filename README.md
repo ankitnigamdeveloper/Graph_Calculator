@@ -2,6 +2,7 @@
 
 
 ## Calculate the compound insterest
+In this app calculate compound intrest and save calculation with graph
 
 *For Installation caode:
 clone repository
