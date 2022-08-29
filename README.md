@@ -1,28 +1,14 @@
 # Graph_Calculator
 
 
-## Steps to deploying the firebase functions
+## Calculate the compound insterest
 
-* At the root of InstadatingApp, change directory to firebaseFunctions:
-
+*For Installation caode:
+clone repository
 ```bash
-$ cd firebaseFunctions
+$ npm install
 ```
-
-* First, we need to make sure that the Firebase Command Line Client is installed. Execute the following command to install the firebase-tools package:
-
-```bash
-$ npm install -g firebase-tools
-```
-
-* login to Firebase by using the following command:
-
-```bash
-$ firebase login
-```
-
-* The browser should open up and load a URL that was displayed in the console. At the same time the login is recognized by the Firebase CLI in the console.
-
+## Image preview
 
 ![Screenshot_20220829_132812](https://user-images.githubusercontent.com/109139213/187174762-319dc24e-9651-4b4b-8065-cf9fa353910d.jpg)
 
